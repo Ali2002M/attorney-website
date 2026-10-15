@@ -1,0 +1,12 @@
+# Root dockerignore
+frontend/node_modules
+frontend/.next
+frontend/out
+frontend/.env*.local
+.venv
+.deepeval
+.qodo
+.git
+.gitignore
+.DS_Store
+*.log
